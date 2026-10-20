@@ -1,4 +1,4 @@
-# Hi there, I'm Christian Corvino
+# Hi there, I'm Christian Corvino 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Corvino-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-corvino-a1b22b443)
 [![GitHub Academic](https://img.shields.io/badge/GitHub-Sapienza--Corvino-181717?style=flat-square&logo=github)](https://github.com/Sapienza-Corvino)
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🎓 **M.Sc. Student in Artificial Intelligence and Robotics** at **Sapienza University of Rome**.
 - 🎓 **B.Sc. Graduate in Computer Science (L-31)** from the **University of Bari Aldo Moro**.
-- 🤖 Passionate about **Autonomous Robotics**, **Deep Learning**, **Edge IoT & Embedded Systems**, and **Native Mobile Engineering**.
+- 🤖 Passionate about **Autonomous & Social Robotics**, **Deep Learning**, **Edge IoT & Embedded Systems**, and **Native Mobile Engineering**.
 - 💡 Experienced in bridging modern AI architectures with low-latency robotic pipelines, distributed sensing networks, and responsive wearable applications.
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** `Python`, `C++`, `C`, `C#`, `Kotlin`, `TypeScript`, `JavaScript`, `Java`, `SQL`
-- **Robotics & Simulation:** `ROS 2 (Humble)`, `MoveIt 2`, `Gazebo`, `OpenCV`, `MediaPipe`
+- **Robotics & Simulation:** `ROS 2 (Humble)`, `MoveIt 2`, `Pepper Robot SDK (QiSDK)`, `Gazebo`, `OpenCV`, `MediaPipe`
 - **Machine Learning & AI:** `PyTorch`, `Scikit-Learn`, `Transformers`, `Multimodal LLMs (Gemini Live API)`
 - **IoT & Embedded Systems:** `ESP-IDF`, `ESP32-S3`, `FreeRTOS`, `BLE`, `LoRa / LoRaWAN`, `IMU Sensors`
 - **Mobile & Wearables:** `Android Native (Kotlin, Jetpack Compose)`, `Wear OS`, `React 19`, `PWA`, `Tailwind CSS`
@@ -30,6 +30,8 @@
 #### 🤖 Robotics & Computer Vision
 * **[Surgical Workflow Analysis](https://github.com/Sapienza-Corvino/Sapienza_MR_SurgicalWorkflowAnalysis)** *(Public / Medical Robotics)*  
   Deep learning pipeline comparing CNN + Transformer / LSTM architectures for surgical instrument detection and phase recognition in robotic-assisted surgery.
+* **PepperMind+ — Cognitive Stimulation with Social Robot Pepper** *(Social Robotics / B.Sc. Thesis)*  
+  Assistive healthcare application integrating humanoid social robot Pepper with native Android to deliver personalized cognitive serious games and natural voice interaction for Alzheimer's patients.
 * **Autonomous Robotic Assembly with Impedance Control** *(ROS 2 / Robotics)*  
   ROS 2 package for precision LoRa antenna assembly on microcontrollers using dynamic visual hand-eye ArUco tracking, inverse kinematics, and force-feedback impedance control.
 * **Kinetix Sandbox - Multimodal Optical Tracking** *(Computer Vision / Interaction)*  
