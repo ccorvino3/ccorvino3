@@ -1,4 +1,4 @@
-# Hi there, I'm Christian Corvino 👋
+# Hi there, I'm Christian Corvino
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Corvino-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-corvino-a1b22b443)
 [![GitHub Academic](https://img.shields.io/badge/GitHub-Sapienza--Corvino-181717?style=flat-square&logo=github)](https://github.com/Sapienza-Corvino)
